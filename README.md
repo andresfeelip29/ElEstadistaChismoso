@@ -1,5 +1,4 @@
-## Calculadora CRC
-
+## GESTOS DE ENCUESTAS
 ---
 
 Proyecto para la universidad de cordoba, asignatura programacion 2
