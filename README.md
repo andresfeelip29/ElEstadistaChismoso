@@ -1,4 +1,4 @@
-## GESTOS DE ENCUESTAS
+## GESTOR DE ENCUESTAS
 ---
 
 Proyecto para la universidad de cordoba, asignatura programacion 2
